@@ -1,8 +1,5 @@
 fastapi
+google-generativeai
 uvicorn
 pydantic
-langchain
-langchain-community
-langchain-huggingface
-huggingface_hub
 python-dotenv

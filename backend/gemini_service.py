@@ -5,10 +5,10 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-# Configure your API key
+# Configure  API key
 genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
 
-model = genai.GenerativeModel("gemini-2.5-flash")
+model = genai.GenerativeModel("gemini-2.0-flash")
 
 
 def generate_marketing_content(business_name: str, description: str = None) -> dict:

@@ -19,4 +19,4 @@ One-click full-stack Generative AI SaaS that instantly creates professional mark
 
 ### Category
 
-AI Marketing Automation · Generative AI SaaS · SMB Growth Tools · Local Business Tech · Structured LLM Applications
+AI Marketing Automation · Generative AI SaaS · Local Business Tech · Structured LLM Applications

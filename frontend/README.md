@@ -14,7 +14,7 @@ One-click full-stack Generative AI SaaS that instantly creates professional mark
 ### Tech Stack (Full-Stack GenAI Application)
 
 - Backend: Python FastAPI + Google Gemini 2.5 Flash
-- Frontend: React 18 + Vite + Tailwind CSS
+- Frontend: React 19 + Vite + Tailwind CSS
 - AI: Gemini structured output
 
 ### Category
